@@ -58,7 +58,9 @@ The project also demonstrates **decision threshold optimization**, showing how a
 
 ---
 
-## Repository Contents
+## Repository Structure
+
+```
 waze-user-churn-prediction
 │
 ├── waze_user_churn_prediction.ipynb
@@ -66,6 +68,7 @@ waze-user-churn-prediction
 ├── xgb_churn_model.pkl
 ├── requirements.txt
 └── data/
+```
 
 
 ---
