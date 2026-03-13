@@ -1,0 +1,5 @@
+The dataset used in this project contains anonymized Waze user activity data.
+
+The original dataset was provided as part of an advanced data analytics training program and cannot be redistributed publicly.
+
+This repository demonstrates the machine learning workflow used to build a churn prediction model using the dataset structure.
